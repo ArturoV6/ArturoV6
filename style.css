@@ -39,3 +39,10 @@ header .p{
     bottom: 24px;
 }
 
+footer{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 6px;
+    background-color: cyan;
+    text-align: center;
+}
