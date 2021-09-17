@@ -9,18 +9,34 @@ body{
     color:  blue;
 }
 
-body div{
+body .div{
     width: 80%;
     margin: 0 auto;
+    text-align: justify;
+    margin-top: 90px;
+    background-color:coral;
 }
 
 header{
     width: 100%;
     position: fixed;
     background-color: burlywood;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     padding: 30px;
     font-size: 20px;
+    top: 0.1px;
+    height: 13%;
+}
+
+header .p2{
+    display: flex;  
+}
+
+header .p{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    bottom: 24px;
 }
 
 body{
