@@ -14,7 +14,7 @@ body .div{
     margin: 0 auto;
     text-align: justify;
     margin-top: 90px;
-    background-color:coral;
+    background-color:burlywood;
 }
 
 header{
@@ -43,6 +43,6 @@ footer{
     width: 80%;
     margin: 0 auto;
     margin-top: 6px;
-    background-color: cyan;
+    background-color:gold;
     text-align: center;
 }
